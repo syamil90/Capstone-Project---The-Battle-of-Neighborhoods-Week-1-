@@ -35,7 +35,7 @@ Clearly define a problem or an idea of your choice, where you would need to leve
 
 This submission will eventually become your **Introduction/Business Problem** section in your final report. So I recommend that you push the report (having your Introduction/Business Problem section only for now) to your Github repository and submit a link to it.
 
-Text Box For Link:
+Text Box For Link: https://github.com/syamil90/Capstone-Project---The-Battle-of-Neighborhoods-Week-1-/blob/main/Business%20Proposal.ipynb
 
 Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
 
